@@ -1,5 +1,8 @@
 # 🔐 Substitution Cipher Decryption with Genetic Algorithms  
 
+![Python](https://img.shields.io/badge/Python-3.x-blue)  
+![License](https://img.shields.io/badge/License-MIT-green)  
+
 This project is a **Python application** that applies **Genetic Algorithms** to decrypt substitution ciphers.  
 It provides a **Tkinter-based GUI** and uses **Matplotlib** for visualization.  
 
@@ -23,8 +26,10 @@ It provides a **Tkinter-based GUI** and uses **Matplotlib** for visualization.
 ---
 
 ## 📷 GUI Preview  
-- Simple interface to load files and start decryption.  
-- Graphs comparing bi-gram and tri-gram fitness over generations.  
+Here is a preview of the application interface:  
 
--
+![App Screenshot](Figure_1.png)  
+*(Replace `screenshot.png` with your actual screenshot file name after uploading it to the repository.)*  
+
+
 
