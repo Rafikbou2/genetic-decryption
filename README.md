@@ -29,7 +29,7 @@ It provides a **Tkinter-based GUI** and uses **Matplotlib** for visualization.
 Here is a preview of the application interface:  
 
 ![App Screenshot](Figure_1.png)  
-*(Replace `screenshot.png` with your actual screenshot file name after uploading it to the repository.)*  
+
 
 
 
